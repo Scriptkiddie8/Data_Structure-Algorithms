@@ -1,0 +1,9 @@
+{
+    "explorer.openEditors.sortOrder": "editorOrder",
+    "explorer.sortOrder": "filesFirst",
+    "search.actionsPosition": "right",
+    "testing.countBadge": "off",
+    "files.associations": {
+        "functional": "cpp"
+    }
+}
